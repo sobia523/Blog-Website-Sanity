@@ -14,9 +14,9 @@ const About = () => {
         <p className="text-lg text-gray-700 text-center leading-relaxed">
           Welcome to our platform, where we offer insightful content and resources
           to guide you through your journey in the world of trading. Our team is
-          dedicated to providing high-quality, accurate, and up-to-date information
-          to help you make informed decisions. Whether you're a beginner or an
-          experienced trader, we strive to empower you with the knowledge you need
+          dedicated to providing high quality accurate and up to date information
+          to help you make informed decisions. Whether you are a beginner or an
+          experienced trader we strive to empower you with the knowledge you need
           to succeed.
         </p>
       </div>
